@@ -1,4 +1,3 @@
-
 <?php $__env->startSection('content'); ?>
                 <div class="card">
                     <div class="card-header">
